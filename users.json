@@ -1,0 +1,359 @@
+[
+    {
+        "id": 1,
+        "name": "john doe",
+        "username": "I am Jon",
+        "email": "johndoe@gmail.com",
+        "address": {
+            "street": "polly street",
+            "city": "kisumu",
+            "zipcode": "101283",
+            "geo": {
+                "lat": "-37.23994",
+                "long": "45.2353"
+            }
+        },
+        "phone": "0114473100",
+        "website": "www.johndoe.dev",
+        "company": {
+            "name": "JohnDoe Industries",
+            "website": "jdindustries.com"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jane doe",
+        "username": "janeypink",
+        "email": "jdee@gmail.com",
+        "address": {
+            "street": "moi avenue",
+            "city": "nairobi",
+            "zipcode": "105583",
+            "geo": {
+                "lat": "-37.23994",
+                "long": "81.239043"
+            }
+        },
+        "phone": "0778923432",
+        "website": "www.janedoe.org",
+        "company": {
+            "name": "Google",
+            "website": "google.com"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Alice Smith",
+        "username": "alicesmiles",
+        "email": "alice.smith@example.com",
+        "address": {
+            "street": "Sunset Boulevard",
+            "city": "Los Angeles",
+            "zipcode": "90210",
+            "geo": {
+                "lat": "34.05223",
+                "long": "-118.2437"
+            }
+        },
+        "phone": "3105550123",
+        "website": "www.alicesworld.com",
+        "company": {
+            "name": "DreamWorks",
+            "website": "dreamworks.com"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Bob Johnson",
+        "username": "bobbyj",
+        "email": "bob.j@example.com",
+        "address": {
+            "street": "Main Street",
+            "city": "Chicago",
+            "zipcode": "60610",
+            "geo": {
+                "lat": "41.87811",
+                "long": "-87.6298"
+            }
+        },
+        "phone": "3125552345",
+        "website": "www.bobjohnsonworld.com",
+        "company": {
+            "name": "TechSolutions",
+            "website": "techsolutions.com"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Caroline Brown",
+        "username": "carebear",
+        "email": "caroline.b@example.com",
+        "address": {
+            "street": "Queen Street",
+            "city": "Toronto",
+            "zipcode": "M5A 1K2",
+            "geo": {
+                "lat": "43.65107",
+                "long": "-79.347015"
+            }
+        },
+        "phone": "4165557890",
+        "website": "www.caresworld.net",
+        "company": {
+            "name": "Maple Leafs Inc.",
+            "website": "mapleleafs.com"
+        }
+    },
+    {
+        "id": 4,
+        "name": "David Lee",
+        "username": "davidl",
+        "email": "david.lee@example.com",
+        "address": {
+            "street": "Pine Street",
+            "city": "San Francisco",
+            "zipcode": "94111",
+            "geo": {
+                "lat": "37.79210",
+                "long": "-122.40233"
+            }
+        },
+        "phone": "4155554567",
+        "website": "www.davidlee.com",
+        "company": {
+            "name": "Bay Area Tech",
+            "website": "bayareatech.com"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Emily White",
+        "username": "emwhite",
+        "email": "emily.white@example.com",
+        "address": {
+            "street": "King Street",
+            "city": "Sydney",
+            "zipcode": "2000",
+            "geo": {
+                "lat": "-33.8688",
+                "long": "151.2093"
+            }
+        },
+        "phone": "6125556789",
+        "website": "www.emilywhite.net",
+        "company": {
+            "name": "Down Under Solutions",
+            "website": "downundersolutions.com"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Frank Rodriguez",
+        "username": "frankie",
+        "email": "frank.r@example.com",
+        "address": {
+            "street": "Broadway",
+            "city": "New York",
+            "zipcode": "10001",
+            "geo": {
+                "lat": "40.71455",
+                "long": "-74.00712"
+            }
+        },
+        "phone": "2125553456",
+        "website": "www.frankierodriguez.com",
+        "company": {
+            "name": "Big Apple Innovations",
+            "website": "bigappleinnovations.com"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Grace Wilson",
+        "username": "gracey",
+        "email": "grace.w@example.com",
+        "address": {
+            "street": "Regent Street",
+            "city": "London",
+            "zipcode": "W1B 2HE",
+            "geo": {
+                "lat": "51.509865",
+                "long": "-0.126063"
+            }
+        },
+        "phone": "442075555432",
+        "website": "www.gracewilsonworld.com",
+        "company": {
+            "name": "British Tech Solutions",
+            "website": "britishtechsolutions.com"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Henry Davis",
+        "username": "hankd",
+        "email": "henry.d@example.com",
+        "address": {
+            "street": "Brooklyn Street",
+            "city": "Melbourne",
+            "zipcode": "3000",
+            "geo": {
+                "lat": "-37.8136",
+                "long": "144.9631"
+            }
+        },
+        "phone": "6135558901",
+        "website": "www.henrydavis.me",
+        "company": {
+            "name": "Aussie Innovations",
+            "website": "aussieinnovations.com"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Isabel Martinez",
+        "username": "izzyM",
+        "email": "isabel.m@example.com",
+        "address": {
+            "street": "Calle Principal",
+            "city": "Madrid",
+            "zipcode": "28001",
+            "geo": {
+                "lat": "40.4167",
+                "long": "-3.7032"
+            }
+        },
+        "phone": "34915556676",
+        "website": "www.izzymartinez.es",
+        "company": {
+            "name": "SpanishTech",
+            "website": "spanishtech.com"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Jack Thompson",
+        "username": "jthomps",
+        "email": "jack.t@example.com",
+        "address": {
+            "street": "Oxford Street",
+            "city": "Cape Town",
+            "zipcode": "8001",
+            "geo": {
+                "lat": "-33.918861",
+                "long": "18.4233"
+            }
+        },
+        "phone": "27214457789",
+        "website": "www.jackthompson.co.za",
+        "company": {
+            "name": "African Innovate",
+            "website": "africaninnovate.com"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Katie Roberts",
+        "username": "katier",
+        "email": "katie.r@example.com",
+        "address": {
+            "street": "Abbey Road",
+            "city": "Liverpool",
+            "zipcode": "L18 1HJ",
+            "geo": {
+                "lat": "53.4084",
+                "long": "-2.9916"
+            }
+        },
+        "phone": "441772555678",
+        "website": "www.katieroberts.co.uk",
+        "company": {
+            "name": "British Solutions Ltd.",
+            "website": "britishsolutions.com"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Liam Murphy",
+        "username": "liamm",
+        "email": "liam.m@example.com",
+        "address": {
+            "street": "Shamrock Road",
+            "city": "Dublin",
+            "zipcode": "D02 HP72",
+            "geo": {
+                "lat": "53.349805",
+                "long": "-6.260310"
+            }
+        },
+        "phone": "353256554433",
+        "website": "www.liammurphy.ie",
+        "company": {
+            "name": "LuckyTech",
+            "website": "luckytech.ie"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Mia Nguyen",
+        "username": "miang",
+        "email": "mia.n@example.com",
+        "address": {
+            "street": "Pham Ngu Lao Street",
+            "city": "Ho Chi Minh City",
+            "zipcode": "70000",
+            "geo": {
+                "lat": "10.762622",
+                "long": "106.681543"
+            }
+        },
+        "phone": "84283998877",
+        "website": "www.mianguyen.vn",
+        "company": {
+            "name": "VietTech",
+            "website": "viettech.vn"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Noah Clark",
+        "username": "noahc",
+        "email": "noah.c@example.com",
+        "address": {
+            "street": "Baker Street",
+            "city": "Manchester",
+            "zipcode": "M1 1DN",
+            "geo": {
+                "lat": "53.483959",
+                "long": "-2.244644"
+            }
+        },
+        "phone": "441612345678",
+        "website": "www.noahclark.com",
+        "company": {
+            "name": "Northern Tech Solutions",
+            "website": "northerntechsolutions.com"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Olivia Baker",
+        "username": "oliviab",
+        "email": "olivia.b@example.com",
+        "address": {
+            "street": "Park Avenue",
+            "city": "New York",
+            "zipcode": "10016",
+            "geo": {
+                "lat": "40.746497",
+                "long": "-73.981822"
+            }
+        },
+        "phone": "2125559876",
+        "website": "www.oliviabaker.me",
+        "company": {
+            "name": "EmpireTech",
+            "website": "empiretech.com"
+        }
+    }
+]
